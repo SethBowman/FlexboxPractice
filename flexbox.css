@@ -1,7 +1,11 @@
+* {
+box-sizing: border-box;
+}
+
 .flex-item {
     width: 200px;
     height: 200px;
-    background-color:burlywood;
+    background-color:rgba(177, 177, 177, 0.5);
 border: 1px dotted white;
 }
 
@@ -11,11 +15,11 @@ border: 1px dotted white;
     justify-content: space-around;
     align-items: center;
     height: 1000px;
-    width: 100%;
+    max-width: 100%;
 }
 
 html {
-    background-color:palegreen;
+    background-color:royalblue;
     min-height: 100vh;
-    color:midnightblue;
+    color:white;
 }
