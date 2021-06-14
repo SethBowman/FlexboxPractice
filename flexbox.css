@@ -1,0 +1,21 @@
+.flex-item {
+    width: 200px;
+    height: 200px;
+    background-color:burlywood;
+border: 1px dotted white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 1000px;
+    width: 100%;
+}
+
+html {
+    background-color:palegreen;
+    min-height: 100vh;
+    color:midnightblue;
+}
