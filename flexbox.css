@@ -6,20 +6,24 @@ box-sizing: border-box;
     width: 200px;
     height: 200px;
     background-color:rgba(177, 177, 177, 0.5);
-border: 1px dotted white;
+    border: 5px dotted white;
+    text-align: center;        
 }
 
 .flex-container {
     display: flex;
-    flex-direction: column;
     justify-content: space-around;
-    align-items: center;
-    height: 1000px;
-    max-width: 100%;
+    max-width: 800px;
+    flex-wrap: wrap;
+    margin: auto;  
+    border: 1px solid royalblue;
+     
 }
 
 html {
     background-color:royalblue;
     min-height: 100vh;
     color:white;
+    font-size: 25px;
 }
+
