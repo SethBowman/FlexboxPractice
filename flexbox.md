@@ -1,6 +1,5 @@
 ## Flexbox
 
-<img src="imgaes/jan.jpg"></img>
 
 # Notes
 
