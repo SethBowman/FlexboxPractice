@@ -1,3 +1,3 @@
 ## Flexbox Practice
 
-<img src="imgaes/jan.jpg"></img>
+# <img src="./images/jan.jpg"></img>
